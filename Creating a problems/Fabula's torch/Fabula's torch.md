@@ -47,3 +47,8 @@ CCCCC<br>
 END.
 </pre>
 </details>
+
+## 힌트
+<details><summary>CLICK ME</summary>
+ NO HINT.
+</details>
