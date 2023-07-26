@@ -1,21 +1,22 @@
-# 제목: Fabula's sacred fire
+# TITLE: Fabula's sacred fire
 
-## 문제 링크
+## PROBLEM LINK
 ### 　[**[LINK(AScode)]**]()
 
-## 문제 설명
+## PROBLEM DESCRIPTION
 　Fabula had to make a sacred fire, but he didn't want to make a sacred fire in name only, so he decided to give the task to someone else. The task of making a sacred fire was given to a blacksmith. The book the blacksmith was given contained the ingredients for the sacred fire, but on the page where the picture of the sacred fire was supposed to be, there was no picture, only a description. The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can make the sacred fire!
 
-## 입력 설명
+## INPUT DESCRIPTION
 　**1.**　Enter with a number between 1 and 26, or Enter with nothing.<br>
 　**2.**　Repeat step 1 until the program exits.<br>
 　**3.**　If nothing is entered, print 'END.' and exit the program.<br>
 
-## 출력 설명
-　**1.**　Each time you print a sacred fire, print a single blank line.
+## OUTPUT DESCRIPTION
+　**1.**　The alphabets used to draw the sacred fire are used in proportion to the value of the number entered.<br>
+　**2.**　For example, if the number 1 is entered, only A will be used to draw, and if the number 2 is entered, A and B will be used to draw.<br>
+　**3.**　Each time you print a sacred fire, print a single blank line.<br>
 
-
-## 입력 예시
+## INPUT EXAMPLE
 <details><summary>CLICK ME</summary>
 <pre>
 <strong>1</strong>
@@ -24,11 +25,11 @@
 </pre>
 </details>
 
-## 출력 예시
+## OUTPUT EXAMPLE
 　<strong>There is no output example.</strong><br>
 　However, if you can't figure it out without an output example, see the hints at the bottom.
 
-## 힌트
+## HINT
 <details><summary>CLICK ME</summary>
 <pre>
 A
@@ -52,4 +53,3 @@ CCCCC<br>
 END.
 </pre>
 </details>
-
