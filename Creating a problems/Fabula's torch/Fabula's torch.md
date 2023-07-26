@@ -15,22 +15,25 @@
 
 
 ## 입력 예시
-　1<br>
-　3<br>
-　5<br>
-　0<br>
+<details><summary>CLICK ME</summary>
+<pre>
+<strong>1</strong>
+<strong>3</strong>
+<strong>5</strong><br>
+</pre>
+</details>
 
 ## 출력 예시
+<details><summary>CLICK ME</summary>
+<pre>
 A
-A
-
+A<br>
  B
 BAB
  B
 BBB
 BAB
-BBB
-
+BBB<br>
   C
  CBC
 CBABC
@@ -40,6 +43,7 @@ CCCCC
 CBBBC
 CBABC
 CBBBC
-CCCCC
-
+CCCCC<br>
 END.
+</pre>
+</details>
