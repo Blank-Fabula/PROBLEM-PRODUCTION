@@ -9,7 +9,7 @@
 ## 입력 설명
 　**1.**　Enter a number between 1 and 26 || Enter with nothing.<br>
 　**2.**　Repeat step 1 until the program ends.<br>
-　**3.**　If entered without a number, output 'END.' and exit the program.<br>
+　**3.**　If nothing is entered, print 'END.' and exit the program.<br>
 
 ## 출력 설명
 　**1.**　Each time you print a sacred fire, print a single blank line.
