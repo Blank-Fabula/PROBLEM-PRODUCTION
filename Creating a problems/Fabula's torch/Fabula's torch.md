@@ -1,9 +1,7 @@
 # 제목: Fabula's torch
 
 ## 문제 설명
-　Fabula had a job to do, making a holy fire, but he didn't want to make a holy fire that was nothing more than a name, so he decided to give the job to someone else.<br>
-The job of making the Holy Fire was handed over to a blacksmith. The book he was given with the job listed the ingredients for the Holy Fire, but on the page where the picture of the Holy Fire was supposed to be, there was no picture, only a description.<br>
-The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can create the Holy Fire!<br>
+　Fabula had to make a holy fire, but he didn't want to make a holy fire in name only, so he decided to give the task to someone else. The task of making a holy fire was given to a blacksmith. The book the blacksmith was given contained the ingredients for the sacred fire, but on the page where the picture of the sacred fire was supposed to be, there was no picture, only a description. The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can make the sacred fire!
 
 ## 입력 설명
 　**1.**　A number between 1 and 50 is entered as the number of test cases.<br>
