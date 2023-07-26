@@ -1,3 +1,6 @@
+//EOF 구현 해야함.
+//Fabula's torch
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
@@ -27,5 +30,3 @@ int N, flr, alpha;
 		if(T) printf("\n");
 	}
 return 0;}
-//EOF 구현 해야함.
-//Fabula's torch
