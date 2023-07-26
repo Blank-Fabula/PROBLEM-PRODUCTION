@@ -4,9 +4,10 @@
 　Fabula had to make a holy fire, but he didn't want to make a holy fire in name only, so he decided to give the task to someone else. The task of making a holy fire was given to a blacksmith. The book the blacksmith was given contained the ingredients for the sacred fire, but on the page where the picture of the sacred fire was supposed to be, there was no picture, only a description. The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can make the sacred fire!
 
 ## 입력 설명
-　**1.**　A number between 1 and 26 is entered as the number of test cases.<br>
+　**1.**　A number between 1 and 2<sup>31</sup> - 1 is entered as the number of test cases.<br>
 　**2.**　Repeat Case 3 as many times as the number of test cases.<br>
-　**3.**　A number between 0 and 26 is entered.<br>
+　**3.**　A number between 1 and 26 is entered.<br>
+　**4.**　<br>
 
 ## 출력 설명
 
