@@ -1,17 +1,17 @@
-# 제목: Fabula's holy fire
+# 제목: Fabula's sacred fire
 
 ## 문제 링크
 ### 　[**[LINK(AScode)]**]()
 
 ## 문제 설명
-　Fabula had to make a holy fire, but he didn't want to make a holy fire in name only, so he decided to give the task to someone else. The task of making a holy fire was given to a blacksmith. The book the blacksmith was given contained the ingredients for the sacred fire, but on the page where the picture of the sacred fire was supposed to be, there was no picture, only a description. The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can make the sacred fire!
+　Fabula had to make a sacred fire, but he didn't want to make a sacred fire in name only, so he decided to give the task to someone else. The task of making a sacred fire was given to a blacksmith. The book the blacksmith was given contained the ingredients for the sacred fire, but on the page where the picture of the sacred fire was supposed to be, there was no picture, only a description. The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can make the sacred fire!
 
 ## 입력 설명
 　**1.**　A number between 1 and 26 is entered.<br>
 　**2.**　If entered without a number, output 'END.' and exit the program.<br>
 
 ## 출력 설명
-
+　**1.**　Each time you print a sacred fire, print a single blank line.
 
 
 ## 입력 예시
@@ -50,5 +50,5 @@ END.
 
 ## 힌트
 <details><summary>CLICK ME</summary>
- NO HINT.
+　<strong>NO HINTS!</strong><br>
 </details>
