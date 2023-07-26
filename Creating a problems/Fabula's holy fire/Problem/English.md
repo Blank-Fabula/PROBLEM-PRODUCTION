@@ -1,5 +1,8 @@
 # 제목: Fabula's holy fire
 
+## 문제 링크
+### 　[**[LINK(AScode)]**]()
+
 ## 문제 설명
 　Fabula had to make a holy fire, but he didn't want to make a holy fire in name only, so he decided to give the task to someone else. The task of making a holy fire was given to a blacksmith. The book the blacksmith was given contained the ingredients for the sacred fire, but on the page where the picture of the sacred fire was supposed to be, there was no picture, only a description. The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can make the sacred fire!
 
