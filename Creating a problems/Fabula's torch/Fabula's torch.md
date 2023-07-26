@@ -6,9 +6,9 @@
 
 
 ## 입력 설명
-　**1.**　A number between 1 and 50 is entered as the number of test cases.
-<br>　**2.**　Repeat Case 3 as many times as the number of test cases.
-<br>　**3.**　A number between 0 and 26 is entered.
+　**1.**　A number between 1 and 50 is entered as the number of test cases.<br>
+　**2.**　Repeat Case 3 as many times as the number of test cases.<br>
+　**3.**　A number between 0 and 26 is entered.<br>
 
 ## 출력 설명
 
