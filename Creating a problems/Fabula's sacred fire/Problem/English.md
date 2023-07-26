@@ -8,7 +8,7 @@
 
 ## 입력 설명
 　**1.**　Enter with a number between 1 and 26, or Enter with nothing.<br>
-　**2.**　Repeat step 1 until the program ends.<br>
+　**2.**　Repeat step 1 until the program exits.<br>
 　**3.**　If nothing is entered, print 'END.' and exit the program.<br>
 
 ## 출력 설명
