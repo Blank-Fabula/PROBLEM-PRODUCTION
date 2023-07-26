@@ -24,6 +24,10 @@
 </details>
 
 ## 출력 예시
+　<strong>There is no output example.</strong><br>
+　However, if you can't figure it out without an output example, see the hints at the bottom.
+
+## 힌트
 <details><summary>CLICK ME</summary>
 <pre>
 A
@@ -48,7 +52,3 @@ END.
 </pre>
 </details>
 
-## 힌트
-<details><summary>CLICK ME</summary>
-　<strong>NO HINTS!</strong><br>
-</details>
