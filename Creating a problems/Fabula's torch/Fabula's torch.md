@@ -1,7 +1,7 @@
 # 제목: Fabula's torch
 
 ## 문제 설명
-　Fabula wanted to make a holy fire, but he didn't want to make a holy fire that was nothing more than a name, so he decided to give the job to someone else.
+　Fabula was going to make a holy fire, but he didn't want to make a holy fire that was nothing more than a name, so he decided to give the job to someone else.
 When the blacksmith received the book, he knew the ingredients for the Holy Fire, but there was only a written description on the page where the picture of the Holy Fire should have been.
 The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can create the Holy Fire!
 
