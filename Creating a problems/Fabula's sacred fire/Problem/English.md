@@ -27,7 +27,8 @@
 <pre>
 <strong>1</strong>
 <strong>2</strong>
-<strong>3</strong><br>
+<strong>3</strong>
+<strong>EOF</strong><br>
 </pre>
 </details>
 
