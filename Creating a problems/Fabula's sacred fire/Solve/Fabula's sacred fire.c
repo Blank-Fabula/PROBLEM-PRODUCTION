@@ -1,4 +1,4 @@
-//Fabula's torch
+//Fabula's sacred fire
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
