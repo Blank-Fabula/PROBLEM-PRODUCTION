@@ -6,7 +6,7 @@
 #define ALPHA 'A'
 int main(int argc, char** argv) {
 		int N;
-		while (scanf("%d", &N) == true) {
+		while (scanf("%d", &N) == 1) {
 			int flr; flr = 2 * N - 1;
 			for (int i = 0; i < flr; ++i) {
 				int alpha; alpha = ALPHA + N;
