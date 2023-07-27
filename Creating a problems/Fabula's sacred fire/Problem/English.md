@@ -9,9 +9,9 @@
 　Fabula had to make a sacred fire, but he didn't want to make a sacred fire in name only, so he decided to give the task to someone else. The task of making a sacred fire was given to a blacksmith. The book the blacksmith was given contained the ingredients for the sacred fire, but on the page where the picture of the sacred fire was supposed to be, there was no picture, only a description. The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can make the sacred fire!
 
 ## INPUT DESCRIPTION
-　**1.**　Enter with a number between 1 and 26, or Enter with nothing.<br>
+　**1.**　Enter with a number between 1 and 26, or Enter with EOF.<br>
 　**2.**　Repeat step 1 until the program exits.<br>
-　**3.**　If nothing is entered, print 'END.' and exit the program.<br>
+　**3.**　If EOF is entered, print 'END.' and exit the program.<br>
 
 ## OUTPUT DESCRIPTION
 　**1.**　The alphabets used to draw the sacred fire are used in proportion to the value of the number entered.<br>
