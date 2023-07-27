@@ -10,8 +10,7 @@
 
 ## INPUT DESCRIPTION
 　**1.**　Enter with a number between 1 and 26, or Enter with 'EOF'.<br>
-　**2.**　If 'EOF' is entered, print 'END.' and exit the program.<br>
-　**3.**　Repeat step 1 until the program exits.<br>
+　**2.**　Repeat step 1 until the program exits.<br>
 
 ## OUTPUT DESCRIPTION
 　**1.**　The alphabets used to draw the sacred fire are used in proportion to the value of the number entered.<br>
@@ -21,6 +20,7 @@
 　**5.**　Each figure uses the largest alphabet on the outermost side and progressively decreases the alphabet as you move inwards.<br>
 　**6.**　At the innermost part, alphabet 'A' is used.<br>
 　**7.**　Each time you print a sacred fire, print a single blank line.<br>
+　**8.**　If 'EOF' is entered, print 'END.' and exit the program.<br>
 
 ## INPUT EXAMPLE
 <details><summary>CLICK ME</summary>
