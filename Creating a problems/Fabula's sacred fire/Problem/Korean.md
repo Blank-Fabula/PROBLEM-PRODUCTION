@@ -10,8 +10,7 @@
  
 ## 입력 설명
 　**1.**　1과 26사이의 숫자가 입력되거나, 'EOF'가 입력됩니다.<br>
-　**2.**　만약 'EOF'가 입력되면 프로그램을 종료합니다.<br>
-　**3.**　프로그램이 종료되기 전까지 1번을 반복합니다.<br>
+　**2.**　프로그램이 종료되기 전까지 1번을 반복합니다.<br>
 
 ## 출력 설명
 　**1.**　The alphabets used to draw the sacred fire are used in proportion to the value of the number entered.<br>
@@ -21,6 +20,7 @@
 　**5.**　Each figure uses the largest alphabet on the outermost side and progressively decreases the alphabet as you move inwards.<br>
 　**6.**　At the innermost part, alphabet 'A' is used.<br>
 　**7.**　Each time you print a sacred fire, print a single blank line.<br>
+　**8.**　만약 'EOF'가 입력되면 'END.'를 출력하고 프로그램을 종료합니다.<br>
 
 ## 입력 예시
 <details><summary>클릭하세요</summary>
