@@ -10,8 +10,8 @@
 
 ## INPUT DESCRIPTION
 　**1.**　Enter with a number between 1 and 26, or Enter with 'EOF'.<br>
-　**2.**　Repeat step 1 until the program exits.<br>
-　**3.**　If 'EOF' is entered, print 'END.' and exit the program.<br>
+　**2.**　If 'EOF' is entered, print 'END.' and exit the program.<br>
+　**3.**　Repeat step 1 until the program exits.<br>
 
 ## OUTPUT DESCRIPTION
 　**1.**　The alphabets used to draw the sacred fire are used in proportion to the value of the number entered.<br>
