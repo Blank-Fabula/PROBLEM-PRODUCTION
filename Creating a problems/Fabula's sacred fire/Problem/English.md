@@ -15,7 +15,7 @@
 
 ## OUTPUT DESCRIPTION
 　**1.**　The alphabets used to draw the sacred fire are used in proportion to the value of the number entered.<br>
-　**2.**　For example, if the number 1 is entered, only A will be used to draw, and if the number 2 is entered, A and B will be used to draw.<br>
+　**2.**　For example, if the number '1' is entered, only 'A' will be used to draw, and if the number 2 is entered, 'A' and 'B' will be used to draw.<br>
 　**3.**　The sacred fire is composed of rhombuses and squares with four sides of equal length.<br>
 　**4.**　The sacred fire has some form that is attached to the lower vertex of the rhombus and one side of the square.<br>
 　**5.**　Each figure uses the largest alphabet on the outermost side and progressively decreases the alphabet as you move inwards.<br>
