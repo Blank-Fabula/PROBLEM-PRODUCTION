@@ -3,7 +3,7 @@
 # 제목: 파불라의 성화
 
 ## 문제 링크
-### 　[**[링크(AScode)]**]()
+### 　[**[링크(AScode)]**](http://ascode.org/problem.php?id=1382)
 
 ## 문제 설명
 　파불라는 성화를 만드는 일이 있었지만 이름만 거창한 볼품없는 성화를 만들고 싶지 않았기에, 다른이에게 이 일을 넘겨 주기로 했습니다. The task of making a sacred fire was given to a blacksmith. The book the blacksmith was given contained the ingredients for the sacred fire, but on the page where the picture of the sacred fire was supposed to be, there was no picture, only a description. The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can make the sacred fire!
