@@ -6,12 +6,12 @@
 ### 　[**[링크(AScode)]**](http://ascode.org/problem.php?id=1382)
 
 ## 문제 설명
-　파불라는 성화를 만드는 일이 있었지만 이름만 거창한 볼품없는 성화를 만들고 싶지 않았기에, 다른이에게 이 일을 넘겨 주기로 했습니다. The task of making a sacred fire was given to a blacksmith. The book the blacksmith was given contained the ingredients for the sacred fire, but on the page where the picture of the sacred fire was supposed to be, there was no picture, only a description. The blacksmith is stumped by the description, which doesn't make any sense. Help the blacksmith by reading the description and solving the problem so that he can make the sacred fire!
-
+　파불라는 성화를 만드는 일이 있었지만 이름만 거창한 볼품없는 성화를 만들고 싶지 않았기에, 다른이에게 이 일을 넘겨 주기로 했습니다. 성화를 만드는 일은 대장장이에게 넘겨졌습니다. 대장장이가 함께 넘겨받은 책에는 성화를 만들기 위한 재료가 적혀있었으나, 성화의 그림이 있어야 할 페이지에 그림은 없고 설명만이 있었습니다. 설명을 읽은 대장장이는 말이 안 되는 설명에 당황해합니다. 대장장이가 성화를 만들 수 있도록 설명을 읽고 문제를 해결하여 대장장이를 도와주세요!
+ 
 ## 입력 설명
-　**1.**　Enter with a number between 1 and 26, or Enter with 'EOF'.<br>
-　**2.**　Repeat step 1 until the program exits.<br>
-　**3.**　If 'EOF' is entered, print 'END.' and exit the program.<br>
+　**1.**　1과 26사이의 숫자가 입력되거나, 'EOF'가 입력됩니다.<br>
+　**2.**　만약 'EOF'가 입력되면 프로그램을 종료합니다.<br>
+　**3.**　프로그램이 종료되기 전까지 1번을 반복합니다.<br>
 
 ## 출력 설명
 　**1.**　The alphabets used to draw the sacred fire are used in proportion to the value of the number entered.<br>
