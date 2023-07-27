@@ -18,8 +18,9 @@
 　**2.**　For example, if the number 1 is entered, only A will be used to draw, and if the number 2 is entered, A and B will be used to draw.<br>
 　**3.**　The sacred fire is composed of rhombuses and squares with four sides of equal length.<br>
 　**4.**　The sacred fire has some form that is attached to the lower vertex of the rhombus and one side of the square.<br>
-　**5.**　각 도형들을 그리는데 사용되는 알파벳은 가장 바깥쪽이 크며, 가장 안쪽은 'A'로 되어 있습니다.<br>
-　**6.**　Each time you print a sacred fire, print a single blank line.<br>
+　**5.**　Each figure uses the largest alphabet on the outermost side and progressively decreases the alphabet as you move inwards.<br>
+　**6.**　At the innermost part, alphabet 'A' is used.<br>
+　**7.**　Each time you print a sacred fire, print a single blank line.<br>
 
 ## INPUT EXAMPLE
 <details><summary>CLICK ME</summary>
