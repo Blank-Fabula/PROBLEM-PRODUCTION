@@ -13,13 +13,13 @@
 　**2.**　프로그램이 종료되기 전까지 1번을 반복합니다.<br>
 
 ## 출력 설명
-　**1.**　The alphabets used to draw the sacred fire are used in proportion to the value of the number entered.<br>
-　**2.**　For example, if the number '1' is entered, only 'A' will be used to draw, and if the number '2' is entered, 'A' and 'B' will be used to draw.<br>
-　**3.**　The sacred fire is composed of rhombuses and squares with four sides of equal length.<br>
-　**4.**　The sacred fire has some form that is attached to the lower vertex of the rhombus and one side of the square.<br>
-　**5.**　Each figure uses the largest alphabet on the outermost side and progressively decreases the alphabet as you move inwards.<br>
-　**6.**　At the innermost part, alphabet 'A' is used.<br>
-　**7.**　Each time you print a sacred fire, print a single blank line.<br>
+　**1.**　성화를 그릴때 입력된 숫자의 값에 비례하여 알파벳이 사용됩니다.<br>
+　**2.**　예를 들어서, 숫자 '1'이 입력되면, 'A'만 사용하여 그림을 그리고, 숫자 '2'가 입력되면, 'A' 와 'B' 를 사용하여 그립니다.<br>
+　**3.**　성화는 4변의 길이가 같은 마름모와 정사각형으로 이루어져 있습니다.<br>
+　**4.**　성화의 형태는 정사각형의 한 변이 마름모의 아랫쪽 꼭짓점에 붙어있는 모양입니다.<br>
+　**5.**　각 도형의 가장 바깥쪽은 사용되는 알파벳중 가장 큰 것으로 이루어져 있으며, 안쪽으로 들어갈 수록 점점 줄어듭니다.<br>
+　**6.**　가장 안쪽은 'A'하나로 되어 있습니다. <br>
+　**7.**　성화를 하나 출력할 때마다, 빈줄을 하나 출력하세요.<br>
 　**8.**　만약 'EOF'가 입력되면 'END.'를 출력하고 프로그램을 종료합니다.<br>
 
 ## 입력 예시
@@ -34,7 +34,7 @@
 
 ## 출력 예시
 　<strong>출력 예시는 없습니다.</strong><br>
-　하지만, 출력 예시 없이는 풀지 못하겠다면, 아래쪽에 있는 힌트를 보도록 하세요.
+　하지만, 출력 예시 없이는 풀지 못하겠다면, 아래쪽에 있는 힌트를 보세요.
 
 ## 힌트
 <details><summary>클릭하세요</summary>
