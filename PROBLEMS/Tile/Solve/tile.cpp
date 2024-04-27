@@ -23,7 +23,6 @@ int main(int argc, char **argv)
   for (auto& tile : vecTile) { mapTile[tile]++; }
   std::vector<std::vector<char>> vec = mapTile.begin()->first;
 
-  std::cout << '\n';
   for (int i = 0; i < N; ++i)
   {
     for (int j = 0; j < N; ++j)
