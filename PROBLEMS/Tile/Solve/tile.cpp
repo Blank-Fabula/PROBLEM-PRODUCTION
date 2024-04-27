@@ -12,7 +12,7 @@ int main(int argc, char **argv)
 
   for (int i = 0; i < N; ++i)
   {
-    int calc = (i / M * M);
+    int calc = (i / M * (N / M));
     for (int j = 0; j < N; ++j)
     {
       std::cin >> vecTile[calc + (j / M)][i % M][j % M];
